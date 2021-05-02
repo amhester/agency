@@ -1,2 +1,2 @@
-# workers
-A basic yet functional asynchronous goroutine manager.
+# Agency
+A basic yet functional asynchronous worker pool utility for go.
